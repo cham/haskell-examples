@@ -1,6 +1,0 @@
-oneToTwenty = [1..20]
-aToZ = ['a'..'z']
-kToZCaps = ['K'..'Z']
-oneToTwentyEven = [2,4..20]
-oneToTwentyOdd = [x | x <- [1..20], odd x]
-infiniteListSection = take 5 [13,26..]
